@@ -1,0 +1,6 @@
+{
+  "name": "Reaction Time Test",
+  "description": "測試你的反射神經與反應時間的小遊戲。點擊或按下空白鍵，並在畫面變色時以最快速度做出反應！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
